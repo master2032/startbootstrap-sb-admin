@@ -1,0 +1,34 @@
+[
+	{
+		"acc": 1,
+		"producto": "Cable Coaxial RG6",
+		"marca": "Logins",
+		"ctd": 2,
+		"precio": 284.00,
+		"total": "Pieza"
+	},
+	{
+		"acc": 2,
+		"producto": "TV Smart",
+		"marca": "Samsung",
+		"ctd": 1,
+		"precio": 6800.00,
+		"total": "Pieza"
+	},
+	{
+		"acc": 3,
+		"producto": "Antena Industrial SAP",
+		"marca": "Logins",
+		"ctd": 2,
+		"precio": 70000.00,
+		"total": "Pieza"
+	},
+	{
+		"acc": 4,
+		"producto": "Accesorios de Instalacion",
+		"marca": "Logins",
+		"ctd": 40,
+		"precio": 2500.00,
+		"total": "Pieza"
+	}
+]
